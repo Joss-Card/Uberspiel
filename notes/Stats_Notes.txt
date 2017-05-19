@@ -1,0 +1,8 @@
+Stats needed
+
+
+Enemies need:
+
+HP (called to destroy, obviously)
+DEF (Called by scr_enemhit for damage calculations)
+ATK (called by [Need Knackhit script] for damage calculations to Knack)

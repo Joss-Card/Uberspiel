@@ -1,0 +1,5 @@
+key,stack_size,image,sprite,name
+string,real,real,string,string
+potion_health,64,0,spr_inv_potions,Health potion
+potion_mana,64,1,spr_inv_potions,Mana potion
+potion_stamina,64,2,spr_inv_potions,Stamina potion

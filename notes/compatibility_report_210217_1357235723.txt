@@ -1,0 +1,9 @@
+Converting GML script : ${project_dir}\scripts\csv_parse_line\csv_parse_line.gml
+Converted string : line 18 : '"' -> "\""
+Converted string : line 22 : '"' -> "\""
+Converted string : line 26 : '""' -> "\"\""
+Converted string : line 26 : '"' -> "\""
+
+added compatibility script instance/instance_create.gml
+added compatibility script object/object_get_depth.gml
+added compatibility script __global_object_depths.gml
