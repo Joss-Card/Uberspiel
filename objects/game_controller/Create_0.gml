@@ -7,4 +7,4 @@ can_fire = true;
 fire_speed = global.k_spd;
 
 //utilized as stable throughput from scr_enemhit to obj_dmg_hit
-finished_atk = 0;
+        hed_atk = 0;

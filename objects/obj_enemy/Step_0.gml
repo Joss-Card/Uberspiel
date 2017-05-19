@@ -8,4 +8,4 @@ if place_meeting(x,y,instance_nearest(x, y,obj_bullet))//check collision with bu
 if hp<=0{
 	global.k_exp += experience;
 	instance_destroy(self);
-} 
+}                                        

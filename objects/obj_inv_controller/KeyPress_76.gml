@@ -13,3 +13,4 @@ if(path != "") {
     bag_panel = inv_panel_create(bag_inv,obj_inv_bag,96,96);
 }
 }
+       
